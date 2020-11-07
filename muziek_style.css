@@ -112,20 +112,20 @@ a:hover {
     padding: 5px;
     background-color: #dbb3d9;
 }
-.icon {
-    list-style-image: url("../assets/iconfinder_music-19_4634538.png");
-}
 img {
-    width: 200px;
-    height: 100%;
+    height: 290px;
+    width: 290px;
+    margin-left: auto;
+}
+
+td, th {
+    border: 1px solid #000000;
+    color: #000000;
 }
 table {
     table-layout: fixed;
-    margin-bottom: 25px;
     border-collapse: collapse;
-    width: 550px;
-}
-td, th {
-    border: 1px solid #ffffff;
-    color #ffffff;
+    width: 900px;
+    margin: 10px;
+    text-align: center;
 }
